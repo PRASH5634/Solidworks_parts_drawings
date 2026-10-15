@@ -1,0 +1,10 @@
+name,category,folder,original_screenshot,original_pdf
+"Cantilever Bracket","Structural & Support Components","projects/cantilever_bracket","cantilever_bracket.PNG","cantilever_bracket_solidworks.pdf"
+"Loft","Geometry & Surface Modeling","projects/loft","Loft_solidworks.PNG","loft_solidworks.pdf"
+"Multi-Port Valve","Fluid & Housing Concepts","projects/multi_port_valve","multi_port_valve_solidworks.PNG","multi_port_valve_solidworks.pdf"
+"Pencil","Everyday Object Modeling","projects/pencil","pencil_solidworks.PNG","pencil_solidworks.pdf"
+"Pump Housing","Fluid & Housing Concepts","projects/pump_housing","Pump_housing.PNG","pump_housing_solidworks.PDF"
+"Shaft Support Bracket","Structural & Support Components","projects/shaft_support_bracket","shaft_support_bracket_solidworks.PNG","shaft_support_bracket_solidworks.PDF"
+"Spoked Wheel Housing","Rotational & Wheel Components","projects/spoked_wheel_housing","spoked_wheel_housing_solidworks.PNG","spoked_wheel_housing_solidworks.pdf"
+"Spring","Rotational & Wheel Components","projects/spring","spring_solidworks.PNG","spring_solidworks.pdf"
+"Wheel","Rotational & Wheel Components","projects/wheel","wheel_solidworks.PNG","wheel_solidworks.pdf"
